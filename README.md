@@ -31,7 +31,7 @@ Outcome:
 The model successfully classifies facial expressions and displays emojis, demonstrating practical usage of computer vision and deep learning for real-time emotion recognition.
 <img width="1577" height="647" alt="4" src="https://github.com/user-attachments/assets/e20d9512-586e-4c0c-925b-a1da3995c66e" />
 
-3 . I Applying for internship .
+3 . I am Applying for internship .
 
 4 . I am from Kurnool , Andhra Pradesh.
 
