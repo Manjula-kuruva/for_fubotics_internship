@@ -35,4 +35,4 @@ The model successfully classifies facial expressions and displays emojis, demons
 
 4 . I am from Kurnool , Andhra Pradesh.
 
-5 . yes, i am ready to relocate i got selected .
+5 . yes, i am ready to relocate, if i got selected .
